@@ -1,0 +1,97 @@
+body{
+	font-family: 'Baloo 2', sans-serif;
+}
+
+#mainPage{
+	margin-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#headerBar{
+	font-family: 'Baloo 2', sans-serif;
+	font-size: 20pt;
+	color: #3f5d8d;
+	margin-bottom: 15px;
+	font-weight: 600;
+}
+
+#headerText{
+	display:inline-block;
+	color: #3f5d8d;
+}
+
+#headerText:hover, #headerText:active{
+	text-decoration:none;
+}
+
+#headerBar img{
+	height: 60px;
+}
+
+.siteNav{
+	font-size: 16pt;
+	margin-left: 10px;
+	color: #3f5d8d;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.siteNav:hover, .siteNav:active, .siteNavActive{
+	text-decoration: none;
+	border-bottom: 2px solid #396e68;
+	color: #396e68;
+}
+
+h2{
+	font-size: 1.6rem;
+	color: #366B65;
+}
+
+h3{
+	color: #366B65;
+	font-size: 1.4rem;
+}
+
+h2, h3, h4{
+	font-family: 'Baloo 2', sans-serif;
+	font-weight: 600;
+}
+
+h4{
+	font-size: 1.3rem;
+}
+
+p, ol{
+	font-size: 12pt;
+	color: #3C4350;
+}
+
+#activityArea, #mainPageArea{
+	background: linear-gradient(0deg, hsla(147, 40%, 63%, 1) 0%, hsla(147, 40%, 63%, 0.5) 100%);
+	border-radius: .3rem;
+	padding: 10px;
+}
+
+#footer{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.alignRight{
+	text-align:right;
+}
+.alignCenter{
+	text-align:center;
+}
+
+.alignLeft{
+	text-align: left;
+}
+
+.error{
+	background-color: red;
+	color: #FFF;
+	padding: 5px;
+	border-radius: 4px;	
+}

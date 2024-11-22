@@ -1,0 +1,20 @@
+ID,Order,Variable,Question,Map name,Max Answers,Picture filename,Picture alt text,Picture credit,Xrefs,Notes,Audio filename stem,Options,
+wales-phonology-001,1,th fronting,Do you say think more like:,think,1,,,,,,,think,fink
+wales-phonology-002,2,t to r,Do you say a lot of time more like: ,a lot of time,1,,,,,,,a lorra time,a lot of time
+wales-phonology-003,3,foot/strut,Do foot and cut rhyme for you?,foot/cut,1,,,,,,,Yes,No
+wales-phonology-004,4,trap/bath,Do class and mass rhyme for you?,class/mass,1,,,,,,,Yes,No
+wales-phonology-005,5,Velar nasal plus,Do singer and finger rhyme for you?,singer/finger,1,,,,,,,Yes ,No
+wales-phonology-006,6,h dropping,Do you say head more like:,head,1,,,,,,, 'ead ,head 
+wales-phonology-007,7,rhoticity,Do you say Bangor more like:,Bangor,1,,,,,,,Bang-uh,Bang-oR
+wales-phonology-008,8,twth,Do you say tooth more like:,tooth,1,,,,,,,tooth,tuth/twth
+wales-phonology-009,9,here/year/hear,Do you say year and here the same way?,year/hear,1,,,,,,,Yes,No
+wales-phonology-010,10,gemination,How do you say funny? ,funny,1,,,,,Iwan? ,wales-funny,A,B
+wales-phonology-011,11,breaking,How do you say school?,school,1,,,,,Iwan? ,wales-school,A,B
+wales-phonology-012,12,glottals mid,How do you say bottle?,bottle,1,,,,,Jon,wales-bottle,A,B
+wales-phonology-013,13,Tuesday,How do you say Tuesday?,Tuesday,1,,,,,Iwan? ,wales-tuesday,A,B
+wales-phonology-014,14,secondary contraction,How do you say wasn't he?,wasn't he,1,,,,,Jon?,wales-wasnt_he,A,B
+wales-phonology-015,15,secondary contraction ,How do you say isn't he? ,isn't he,1,,,,,Jon?,wales-isnt_he,A,B
+wales-phonology-016,16,rolled r,How do you say squirrel?,squirrel,1,,,,,Jon,wales-squirrel,A,B
+wales-phonology-017,17,goat,How do you say goat?,goat,1,,,,,Jon,wales-goat,A,B
+wales-phonology-018,18,face ,How do you say face?,face,1,,,,,Jon,wales-face,A,B
+wales-phonology-019,19,pre pausal t aspiration?,How do you say 'something like that'?,something like that,1,,,,,clips? ,wales-something_like_that,A,B
