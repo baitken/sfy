@@ -4,7 +4,9 @@
 
 Speak For Yersel is a geospatial linguistic survey tool that enables internet users from a designated geographical area to answer multiple choice questions, with answers then being incorporated into interactive maps in real-time.  The tool provides a setup facility through which one or more morphology, lexis and phonology surveys featuring any number of questions can be created, plus facilities for exporting data from the tool once it is in use.  This document provides step-by-step instructions to creating the data structures the tool requires, the setup facility, customisation and exporting data. A PDF version of this file is also available in the repository.  
 
-A complete set of example data for Wales, consisting of region and area GeoJSON files, settlement lists, survey questions, sound files and illustrative images can be found in the 'example' directory.  
+A complete set of example data for Wales, consisting of region and area GeoJSON files, settlement lists, survey questions, sound files and illustrative images can be found in the 'example' directory.
+
+The tool was adapted from the code that powers the Speak For Yersel survey of Scotland [https://speakforyersel.ac.uk/](https://speakforyersel.ac.uk/) and was used to create the surveys of Wales [https://speakforyersel.ac.uk/wales](https://speakforyersel.ac.uk/wales), Northern Ireland [https://speakforyersel.ac.uk/ni](https://speakforyersel.ac.uk/ni) and the Republic of Ireland [https://speakforyersel.ac.uk/roi](https://speakforyersel.ac.uk/roi).
 
 ## 2\. The data
 
